@@ -3,3 +3,35 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  margin: auto;
+}
+
+image {
+  margin: auto;
+}
+
+a {
+  margin: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;
+}
+
+figcaption {
+  margin: auto;
+  font-size: smaller;
+}
+
+p {
+  margin: auto;
+  width: 800px;
+}
+
+div {
+  float: left;
+  margin: auto;
+  background-color: red;
+  width: fit-content;
+}
